@@ -86,7 +86,6 @@ beginShape();
     vertex(x, y);
   }
   endShape(CLOSE);
-
   
   //treble color radial graph
   stroke(trebleColor,255,255);
