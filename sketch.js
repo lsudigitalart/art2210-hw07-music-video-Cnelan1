@@ -39,7 +39,6 @@ function togglePlay() {
 function draw() {
   background(0);
   translate(width / 2, height / 2);
-  img = loadImage("SpinGraphic.png");
   song.setVolume(slider.value());
 
   let vol = amp.getLevel();
