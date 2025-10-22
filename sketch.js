@@ -102,13 +102,7 @@ beginShape();
   stroke('black')
   fill('black')
   ellipse(0,0,30);
-  
- 
 
-
-  
- 
- 
   
 }
 
